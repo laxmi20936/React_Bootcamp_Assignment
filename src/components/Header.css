@@ -1,0 +1,11 @@
+.head-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+    height:6rem
+}
+
+.image{
+    height:80%;
+}
