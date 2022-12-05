@@ -1,0 +1,82 @@
+[{
+    "id": "1",
+    "imageSrc": "https://avatars.githubusercontent.com/ap221882",
+    "name": "Ajay Pathak",
+    "place": "Gurugram, Haryana",
+    "company": "Naehas Inc",
+    "designation": "Frontend Developer"
+  },
+  {
+    "id": "2",
+    "imageSrc": "https://lumiere-a.akamaihd.net/v1/images/avengers-characterthumbnail-blackpanther_e647c782.jpeg?region=0%2C0%2C300%2C300",
+    "name": "Balaji Gaikwad",
+    "place": "Pune, Maharashtra",
+    "company": "Nice Ltd",
+    "designation": "Senior Software Engineer"
+  },
+  {
+    "id": "3",
+    "imageSrc": "https://lumiere-a.akamaihd.net/v1/images/image_82fde149.jpeg",
+    "name": "Chaitra J",
+    "place": "Bengaluru, Karnataka",
+    "company": "Wells Fargo",
+    "designation": "Senior Software Engineer"
+  },
+  {
+    "id": "4",
+    "imageSrc": "https://www.idrlabs.com/misc_pictures/avengers-character-card.png",
+    "name": "Gourav Goswami",
+    "place": "Madhya Pradesh",
+    "company": "Toschi Infotech",
+    "designation": "Frontend Developer"
+  },
+  {
+    "id": "5",
+    "imageSrc": "https://lumiere-a.akamaihd.net/v1/images/avengers-characterthumbnail-blackwidow_8b8b117b.jpeg?region=0%2C0%2C300%2C300",
+    "name": "Kirti Sahai",
+    "place": "New Delhi",
+    "company": "Kongsberg Digital",
+    "designation": "Senior Frontend Developer"
+  },
+  {
+    "id": "6",
+    "imageSrc": "https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-20810-1iushf7_79017a78.jpeg",
+    "name": "Laxmi Waghmore",
+    "place": "Mumbai, Maharashtra",
+    "company": "Cognizant",
+    "designation": "Frontend Developer"
+  },
+  {
+    "id": "7",
+    "imageSrc": "https://www.shutterstock.com/image-vector/illustration-vector-graphic-cute-tomato-260nw-1852173130.jpg",
+    "name": "Mallikarjun K Basavanagowdra",
+    "place": "Bengaluru, Karnataka",
+    "company": "William O'Neil India",
+    "designation": "Software Engineer"
+  },
+  {
+    "id": "8",
+    "imageSrc": "https://i.kym-cdn.com/photos/images/original/001/596/024/6b3.jpeg",
+    "name": "Pujarini Jena",
+    "place": "Gurugram, Haryana",
+    "company": "CARS24",
+    "designation": "Software Engineer"
+  },
+  {
+    "id": "9",
+    "imageSrc": "https://www.pngitem.com/pimgs/m/366-3664013_iron-man-iron-man-avengers-characters-marvel-kids.png",
+    "name": "Roshan Trivedi",
+    "place": "Muzaffarpur, Bihar",
+    "company": "Infosys",
+    "designation": "Software Engineer"
+  },
+  {
+    "id": "10",
+    "imageSrc": "https://lumiere-a.akamaihd.net/v1/images/avengers-characterthumbnail-captainamerica_65ba07ce.jpeg?region=0%2C0%2C300%2C300",
+    "name": "Vijesh N K",
+    "place": "Mangalore, Karnataka",
+    "company": "Pace wisdom solutions",
+    "designation": "Software Engineer"
+  }
+  ]
+  
