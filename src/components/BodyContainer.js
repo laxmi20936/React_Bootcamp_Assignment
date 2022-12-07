@@ -1,10 +1,15 @@
 import CardContainer from "./CardContainer";
+import './BodyConatiner.css';
 
 const BodyContainer = ({members_data}) => {
-    console.log("laxmi" ,members_data)
-    return members_data.map(individual_data => {
-        return <CardContainer members_data = {individual_data} key = {individual_data.id}/>
-    }) 
+
+    return (
+        <div className="box">
+            {members_data.map(individual_data => {
+             return <CardContainer members_data = {individual_data} 
+                     key = {individual_data.id}/>})}
+        </div>
+    )
 }
 
 export default BodyContainer;
