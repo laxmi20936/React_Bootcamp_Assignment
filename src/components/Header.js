@@ -1,5 +1,5 @@
 import './Header.css';
-import { imageUrlHeader } from './constants';
+import { imageUrlHeader } from '../utils/constants';
 
 const Header = () => {
     return (

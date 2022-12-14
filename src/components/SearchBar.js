@@ -1,13 +1,14 @@
 import {useState} from 'react';
 import './SearchBar.css';
-import members_data from '../data.json';
+import members_data from '../utils/data.json';
 
-const filterName = (enteredText) => {
-  const filteredData = members_data.filter((x) => x.name.toLowerCase().includes(enteredText));
+const filterName = (enteredText,allUsers) => {
+  const filteredData = allUsers.filter((x) => x?.name?.toLowerCase().includes(enteredText));
+  console.log(filteredData,"xyz")
   return filteredData;
 }
 
-const SearchBar = ({getFilterArray}) => {
+const SearchBar = ({getFilterArray, allUsers}) => {
     const [enteredText, setEnteredText] = useState("")
     
     const changeHandler = (e) =>{
@@ -17,7 +18,7 @@ const SearchBar = ({getFilterArray}) => {
     const submitHandler = (e) => {
       e.preventDefault();
       console.log(enteredText, "laxmi")
-      const result = filterName(enteredText);
+      const result = filterName(enteredText,allUsers);
       getFilterArray(result,enteredText)
     }
 
